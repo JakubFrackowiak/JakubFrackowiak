@@ -13,7 +13,7 @@ My passion for coding started in 2021 and since then I am constantly expanding m
 *   🤝  I'm open to collaborating on various projects. I am open minded!
 *   ⚡  cycling enthusiast 🚴
 
-  ⬇### Skills ⬇️
+  ### Skills ⬇️
 
 💻Core
 ------------------------

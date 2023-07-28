@@ -14,7 +14,7 @@ My passion for coding started in 2021 and since then I am constantly expanding m
 *   ⚡  cycling enthusiast 🚴
 
   ### Skills 
-------------------------
+
 💻Core
 ------------------------
 <p align="left">

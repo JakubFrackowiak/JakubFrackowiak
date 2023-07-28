@@ -13,9 +13,7 @@ My passion for coding started in 2021 and since then I am constantly expanding m
 *   🤝  I'm open to collaborating on various projects. I am open minded!
 *   ⚡  cycling enthusiast 🚴
 
-  ### Skills ⬇️
-
-💻Core
+💻Core Skills
 ------------------------
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -23,7 +21,7 @@ My passion for coding started in 2021 and since then I am constantly expanding m
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-💻Front-end
+💻Front-end Skills
 ------------------------
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -38,3 +36,6 @@ My passion for coding started in 2021 and since then I am constantly expanding m
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 </p>
+
+💻Back-end Skills
+------------------------

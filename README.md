@@ -8,7 +8,7 @@ My passion for coding started in 2021 and since then I am constantly expanding m
 
 *   🌍  I'm based in Gdańsk, Poland
 *   ✉️  You can contact me at [jakubfrackowiak.dev@gmail.com](mailto:jakubfrackowiak.dev@gmail.com)
-*   🚀  I'm currently working on [Lancer](http://lancer.co.uk)
+*   🚀  I'm currently working on [Lancr](http://lancer.co.uk)
 *   🧠  I'm learning quickly and thoroughly
 *   🤝  I'm open to collaborating on various projects. I am open minded!
 *   ⚡  cycling enthusiast 🚴
